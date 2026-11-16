@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.udf.ultradeepfield",
-    "sha256_cert_fingerprints": ["6F:FF:A8:E6:23:78:48:05:57:A5:61:10:1F:C3:D7:DE:D2:E8:09:D3:42:F1:7A:28:B7:48:56:D4:09:EA:9E:50"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.udf.ultradeepfield",
+      "sha256_cert_fingerprints": [
+        "6F:FF:A8:E6:23:78:48:05:57:A5:61:10:1F:C3:D7:DE:D2:E8:09:D3:42:F1:7A:28:B7:48:56:D4:09:EA:9E:50",
+        "BA:4E:EA:D3:18:82:21:10:46:24:D2:EB:60:BA:4D:F9:8F:B1:39:52:0D:BF:15:27:2E:EC:97:24:23:12:E2:ED"
+      ]
+    }
   }
-}]
+]
