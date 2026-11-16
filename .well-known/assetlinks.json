@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.udf.ultradeepfield",
+    "sha256_cert_fingerprints": ["6F:FF:A8:E6:23:78:48:05:57:A5:61:10:1F:C3:D7:DE:D2:E8:09:D3:42:F1:7A:28:B7:48:56:D4:09:EA:9E:50"]
+  }
+}]
